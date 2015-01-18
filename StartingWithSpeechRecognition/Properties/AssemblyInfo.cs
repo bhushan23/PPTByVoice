@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("StartingWithSpeechRecognition")]
+[assembly: AssemblyTitle("PPTByVoice")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("ProgramFOX")]
-[assembly: AssemblyProduct("StartingWithSpeechRecognition")]
-[assembly: AssemblyCopyright("Copyright © ProgramFOX 2013")]
+[assembly: AssemblyCompany("bhushan23")]
+[assembly: AssemblyProduct("PPTByVoice")]
+[assembly: AssemblyCopyright("Copyright © bhushan23 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
